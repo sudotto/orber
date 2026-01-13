@@ -6,7 +6,7 @@ Player new_player(){
 	Player player;
 	player.x = 0;
 	player.y = 0;
-	player.size = 5;
+	player.size = 2;
 	player.dx = 0;
 	player.dy = 0;
 	player.spd = 5;
